@@ -51,7 +51,7 @@ terminal-font: "Fixed Regular 13"
    ticks_disappear = false
    start_angle = -67
    end_angle = -67
-   center_bitmap = "my-profile-pic.png"
+   center_bitmap = "my-profile-pic-96by96.png"
    tick_bitmap = "tick.png"
 }
 
