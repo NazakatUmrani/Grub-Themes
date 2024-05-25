@@ -3,7 +3,7 @@
 # Created by lfelipe1501
 
 # Global Property
-title-text: "Nazakat@21SW49"
+title-text: "Nazakat Umrani - 21SW49"
 title-font: "Sans Regular 14"
 title-color: "#E6F3FF"
 message-font: "Fixed Regular 13"
