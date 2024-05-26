@@ -45,10 +45,10 @@ terminal-font: "Fixed Regular 13"
    id = "__timeout__"
    left = 40
    top = 150
-   width = 110
-   height = 110
+   width = 120
+   height = 120
    num_ticks = 33
-   ticks_disappear = true
+   ticks_disappear = false
    start_angle = -67
    end_angle = -67
    center_bitmap = "my-profile-pic-96by96.png"
